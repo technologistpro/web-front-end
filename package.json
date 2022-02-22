@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "browser-sync start --server 'app' --files 'app'"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/technologistpro/web-front-end/issues"
   },
-  "homepage": "https://github.com/technologistpro/web-front-end#readme"
+  "homepage": "https://github.com/technologistpro/web-front-end#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "prettier": "^2.5.1"
+  }
 }
