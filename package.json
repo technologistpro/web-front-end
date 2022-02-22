@@ -1,0 +1,19 @@
+{
+  "name": "web-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technologistpro/web-front-end.git"
+  },
+  "author": "John Gallo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technologistpro/web-front-end/issues"
+  },
+  "homepage": "https://github.com/technologistpro/web-front-end#readme"
+}
